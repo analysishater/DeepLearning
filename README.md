@@ -26,10 +26,10 @@ we aimed in this challenge to underststand how to plot a DL model and to figure 
 
                      --------------------RESULTS--------------------------
 1. the ML model results :
-Accuracy:  0.8152 (81.52%)
-Precision: 0.7656 (76.56%)
-Recall:    0.9608 (96.08%)
-F1-Score:  0.8522 (85.22%)
+Accuracy:  0.8152 (81.52%)*
+Precision: 0.7656 (76.56%)*
+Recall:    0.9608 (96.08%)*
+F1-Score:  0.8522 (85.22%)*
 2. the DL model results
 Accuracy:  0.8260
 Precision: 0.8254 
